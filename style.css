@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(imagens/lisboa_bonde.jpg);
+    color: rgb(247, 241, 234);
+    background-size: cover;
+  }
+  
+  h1 {
+    font-size: 70px;
+  /*  padding: 300px 0 0 0;*/
+    padding-top: 210px;
+    text-shadow: 2px 2px 2px rgb(204, 122, 0);
+    margin-bottom: 15px;
+  }
+  
+  p {
+    /* font-size: 25px; */
+    /* opacity: 0.9;*/
+  }
+  
+  .primeiro-paragrafo {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .segundo-paragrafo {
+    font-size: 24px;
+    margin-bottom: 60px;
+  }
+  
+  .botao {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(255,153,51);
+    padding: 15px 15px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .botao:hover {
+    background-color: rgba(250,210,165,0.75);
+    color:rgb(204, 122, 0);
+  }
+  
+  .lista {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 200px;
+  }
+  
+  .lista li {
+    display: inline;
+  }
+  
+  .lista a {
+    color: rgb(247, 241, 234, 0.85);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+  }
+  
+  .lista a:hover {
+    
+    color:rgb(204, 122, 0);
+  }
