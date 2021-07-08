@@ -4,6 +4,7 @@ body {
     background-image: url(imagens/lisboa_bonde.jpg);
     color: rgb(247, 241, 234);
     background-size: cover;
+    min-height: 100vh;
   }
   
   h1 {
